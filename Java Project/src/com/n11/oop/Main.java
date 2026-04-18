@@ -10,20 +10,20 @@ public class Main {
 
        // Insan i = new  Insan(); // bunu artik yazamassin cunku Insan abstract class oldu yani tamamlanamayan
                                   // nesene vermeyen bir function artik
-        Insan a = new Anne ();
+        Anne a = new Anne ();
         a.ad = "Sabriye";
         a.soyad = "Turan";
-        a.kisibilgi();
+        a.kisibilgi(a.ad,a.soyad);
 
-        Insan b = new Baba ();
+        Baba b = new Baba ();
         b.ad = "Engin";
         b.soyad = "Turan";
-        b.kisibilgi();
+        b.kisibilgi(b.ad,b.soyad);
 
-        Insan c = new Cocuk () ;
+        Cocuk c = new Cocuk () ;
         c.ad = "Yigit";
         c.soyad = "Irfan Turan";
-        c.kisibilgi();
+        c.kisibilgi(c.ad,c.soyad);
 
 
 
