@@ -16,6 +16,15 @@ public class Main {
         a.soyad = "Turan";
         a.kisibilgi(a.ad,a.soyad);
 
+        // interface sayesinde anne okuyup yazabilir fakat dinleyi yazamaz yani kodu korumus oluruz
+        // interface yerine classin icine yazsak, anne dinleyide kullanir ,
+        // ve baba bu ozelligide kullanamaz tanimlamadigimiz icin annenin icine
+        //yani interface ile kodu koruyoruz , yani babada string name degil string adi kullanmamizi zorunlu tutuyor,
+        //butunluk sagliyor ve kodu okuma ,yazarken methodu cagirma erisme anlamindada kolaylik sagliyor
+
+        a.oku(a.ad);
+        a.yaz(a.ad);
+
         Baba b = new Baba ();
         b.ad = "Engin";
         b.soyad = "Turan";
