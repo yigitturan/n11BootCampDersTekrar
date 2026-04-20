@@ -36,6 +36,11 @@ kendi çözüm notlarım ile güncellenmesi amacıyla oluşturulmuştur.
 - Abstract class ile polymorphism   
 - calisan , pozisyon , maas ile abstract class ornegi 
 - benim cevabim hocanin cevabindan biraz daha fazla input iceriyor ama ayni islev
+
+ ### 🔹 Ders2.1
+- diziler ornek , uml, collection framework girisi 
+- matematik ile Overload ornek 
+
   
 
 
