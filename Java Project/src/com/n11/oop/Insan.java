@@ -1,6 +1,6 @@
 package com.n11.oop;
 
-    abstract class Insan {
+    abstract class Insan  {
     public String ad;
     public String soyad;
     public int yas;
@@ -11,6 +11,10 @@ package com.n11.oop;
     public void kisibilgi(String adi, String soyadi)
     {
         System.out.println("Kisinin Adi: " + adi + "  Kisinin Soyadi: " + soyadi);
+
+    }
+
+    public class okuyanlar {
 
     }
 
