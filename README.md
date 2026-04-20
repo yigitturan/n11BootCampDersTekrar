@@ -37,9 +37,14 @@ kendi çözüm notlarım ile güncellenmesi amacıyla oluşturulmuştur.
 - calisan , pozisyon , maas ile abstract class ornegi 
 - benim cevabim hocanin cevabindan biraz daha fazla input iceriyor ama ayni islev
 
- ### 🔹 Ders2.1
+ ### 🔹 Ders2.2
 - diziler ornek , uml, collection framework girisi 
-- matematik ile Overload ornek 
+- matematik ile Overload ornek
+
+ ### 🔹 Ders2.3
+- construction ve composite object kullanimi,
+- insan kafa goz burun kulak ornegi ile
+- !araba ornegi video 2. kisimda burda yok)
 
   
 
