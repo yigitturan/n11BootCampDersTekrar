@@ -26,3 +26,18 @@ kendi çözüm notlarım ile güncellenmesi amacıyla oluşturulmuştur.
 - Interface kullanımı  
 - Multiple Inheritance mantığı  
 - Avantajları ve kullanım senaryoları
+
+### 🔹 Ders2.0
+- Abstract class tanimi  
+- Abstract class icindeki abstract method kullanimi
+- Abstract clas ve methoda dair giris seviye ornek: hayvan
+
+ ### 🔹 Ders2.1
+- Abstract class ile polymorphism   
+- calisan , pozisyon , maas ile abstract class ornegi 
+- benim cevabim hocanin cevabindan biraz daha fazla input iceriyor ama ayni islev
+  
+
+
+  
+  
