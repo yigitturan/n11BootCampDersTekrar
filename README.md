@@ -27,7 +27,7 @@ kendi çözüm notlarım ile güncellenmesi amacıyla oluşturulmuştur.
 - Multiple Inheritance mantığı  
 - Avantajları ve kullanım senaryoları
 
-### 🔹 Ders2.0
+### 🔹 Ders2.0 (18.04.2026)
 - Abstract class tanimi  
 - Abstract class icindeki abstract method kullanimi
 - Abstract clas ve methoda dair giris seviye ornek: hayvan
