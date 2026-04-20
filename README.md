@@ -1,8 +1,28 @@
-# N11 bootcamp derslerinin Tekrar edilmesi ve kendi cozum notlarim ile guncellenmesi 
+# N11 Bootcamp - Ders Tekrarları
 
-#current main : Ders 1.3 
+Bu repo, N11 Bootcamp sürecinde işlenen konuların tekrar edilmesi ve  
+kendi çözüm notlarım ile güncellenmesi amacıyla oluşturulmuştur.
 
-Branhes library: 
-Ders1: (16.04.2026) - abstraction ve polymorphismin kullanilmasi , class lari abstract ve extend yaparak baglama ve kullanma
-  1.2: abstraction ve extend in kullanimi, parent class , sub class kavramlari ikinci ornek, akiili cocuk , uslu cocuk
-  1.3: interface ve multiple inheritence kavramlarini ogrenme, kullanma , avantahlari 
+---
+
+## 📌 Current Main Branch
+**Ders 1.3**
+
+---
+
+## 📚 Branch Library
+
+### 🔹 Ders1 (16.04.2026)
+- Abstraction ve Polymorphism kullanımı  
+- Class’ları abstract yaparak ve `extend` ile bağlama  
+- Temel OOP mantığı
+
+### 🔹 Ders1.2
+- Abstraction ve `extend` kullanımı  
+- Parent Class - Sub Class kavramları  
+- Örnek: *Akıllı Çocuk, Uslu Çocuk*
+
+### 🔹 Ders1.3
+- Interface kullanımı  
+- Multiple Inheritance mantığı  
+- Avantajları ve kullanım senaryoları
