@@ -10,6 +10,7 @@ public class Main {
 
        // Insan i = new  Insan(); // bunu artik yazamassin cunku Insan abstract class oldu yani tamamlanamayan
                                   // nesene vermeyen bir function artik
+
         Anne a = new Anne ();
         a.ad = "Sabriye";
         a.soyad = "Turan";
@@ -24,6 +25,17 @@ public class Main {
         c.ad = "Yigit";
         c.soyad = "Irfan Turan";
         c.kisibilgi(c.ad,c.soyad);
+        c.sifat = "UsluCocuk";
+
+        AkilliCocuk ak = new AkilliCocuk();
+        ak.ad = "Hakan";
+        ak.soyad = "Yilmaz";
+        ak.sifat = "Akillidir";
+        ak.adSoyadSifatYaz(ak.ad,ak.soyad,ak.sifat);
+
+        UsluCocuk us = new UsluCocuk();
+        us.adSoyadSifatYaz("Mehmet","Yildiz","Usludur");
+
 
 
 
