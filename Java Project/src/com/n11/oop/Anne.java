@@ -13,4 +13,15 @@ public class Anne extends Insan implements IOku, IYaz {
         System.out.print(adi + " yaziyor");
     }
 
+    //bos constructor
+    public Anne()
+    {
+
+    }
+
+    public Anne(String isim,String soyadi){
+        ad = isim;
+        soyad = soyadi;
+    }
+
 }

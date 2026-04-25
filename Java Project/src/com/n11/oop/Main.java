@@ -11,10 +11,18 @@ public class Main {
        // Insan i = new  Insan(); // bunu artik yazamassin cunku Insan abstract class oldu yani tamamlanamayan
                                   // nesene vermeyen bir function artik
 
-        Anne a = new Anne ();
+
+        //constructor kavrama :
+        Anne a = new Anne();
         a.ad = "Sabriye";
         a.soyad = "Turan";
         a.kisibilgi(a.ad,a.soyad);
+
+
+        //bu sekilde yapmak yani constructor a deger atamak bastan daha okunakli
+        // ozellikle yuzlerce veri icin
+        Anne a1 = new Anne ("ulku","kutlu");
+        a1.kisibilgi(a1.ad,a1.soyad);
 
         // interface sayesinde anne okuyup yazabilir fakat dinleyi yazamaz yani kodu korumus oluruz
         // interface yerine classin icine yazsak, anne dinleyide kullanir ,
