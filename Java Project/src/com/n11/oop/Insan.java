@@ -1,6 +1,6 @@
 package com.n11.oop;
 
-    abstract class Insan  {
+    public class Insan  {
     public String ad;
     public String soyad;
     public int yas;
