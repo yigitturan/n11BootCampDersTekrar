@@ -5,8 +5,8 @@ kendi çözüm notlarım ile güncellenmesi amacıyla oluşturulmuştur.
 
 ---
 
-## 📌 Current Main Branch
-**Ders 1.3**
+## 📌  Last Branch
+**Ders 2.6**
 
 ---
 
@@ -45,6 +45,22 @@ kendi çözüm notlarım ile güncellenmesi amacıyla oluşturulmuştur.
 - construction ve composite object kullanimi,
 - insan kafa goz burun kulak ornegi ile
 - !araba ornegi video 2. kisimda burda yok)
+
+- ### 🔹 Ders2.4
+- construction ornek detaylandirma
+
+
+### 🔹 Ders2.5
+- generic class kullanimi
+- list array mantigi
+- collection personel ornegi
+
+
+### 🔹 Ders2.6
+- construction kullanim
+- interface + construction
+- override mantigi
+- DB LOG log kayit ornegi
 
   
 
